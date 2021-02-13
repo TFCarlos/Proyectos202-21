@@ -1,0 +1,35 @@
+PROYECTO U3. Herramientas de mapeo objeto-relacional (ORM)
+
+ 
+
+Desarrolla una aplicación con Hibernate que permita gestionar los datos de una base de datos concreta diferente de la que hemos trabajado en clase.
+
+Se pide REALIZAR y EXPLICAR cada uno de los puntos siguientes:
+
+1. Esquema del modelo relacional de la BD escogida, así como el script con la creación de tablas y restricciones correspondientes.
+
+2. Creación de las clases persistentes y mapeo utilizando anotaciones JPA.
+
+3. Creación de distintas clases de aplicación que realicen diferentes acciones sobre la BD. Cada una de las clases debe llevar un comentario explicativo resumen de lo que se hace en ella, además de la explicación de voz. Deberá haber clases que realicen operaciones de estos tipos:
+
+- cargar objetos de la BD, comprobando que se cargan los objetos asociados (por ejemplo, que cargar un departamento y mostrar los empleados asociados a él).
+
+- crear objetos y guardarlos en la BD asociandoles otros objetos (nuevos o recuperados de la BD). Hacer comprobaciones que expliquen las propiedades indicadas en las asociaciones entre clases.
+
+- modificar/borrar objetos que ya estuvieran guardados en la BD comprobando también las propiedades indicadas en las asociaciones.
+
+- consultas de distintas dificultades.
+
+ 
+
+Se valorará la variedad de asociaciones entre entidades, utilización de propiedades específicas debidamente explicadas, gestión de transacciones, variedad de consultas, aplicación y explicación de propiedades o mecanismos que no hayamos visto en clase….
+
+Debe entregarse un vídeo en el que se vaya mostrando el código de las distintas clases que componen el proyecto mientras vais explicando cada decisión de desarrollo que habéis tomado para realizar los distintos puntos indicados anteriormente. (Debeís explicarlo como si fuera un curso en el que explicais cómo funciona Hibernate y cómo lo habéis aplicado en vuestro proyecto. Todo como si yo no fuera a bajarme el proyecto, como si solo fuera a ver y escuchar lo que me enseñais en el vídeo).
+
+ 
+
+De todas formas el lunes en clase me preguntais si teneis alguna duda, por si no me he explicado bien.
+
+
+
+Ya tenéis la rúbrica como me habéis pedido, aunque puede sufrir modificaciones (intentaré que sean las menos).
